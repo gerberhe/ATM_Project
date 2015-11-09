@@ -4,9 +4,10 @@
 	account from either a Command Line format or a GUI Interface.
 #Setup
 	```sh
+	$ git clone 
 	$ bundle install
-
+	```
 	This installs the necessary bundles to run the program on your
 	personal computer.
-	```
+
 #Question
